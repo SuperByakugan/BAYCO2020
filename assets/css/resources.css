@@ -1,0 +1,14 @@
+.features
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+
+article
+{
+	min-width: 300px;
+	max-width: 500px;
+}
